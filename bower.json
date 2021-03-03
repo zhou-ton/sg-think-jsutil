@@ -1,0 +1,17 @@
+{
+  "name": "sg-think-jsutil",
+  "homepage": "https://github.com/zhou-ton/sg-think-jsutil",
+  "authors": [
+    "zhouTon <958798038@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
